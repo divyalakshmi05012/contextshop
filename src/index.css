@@ -1,0 +1,15 @@
+.wrapper{
+  display: flex;
+  flex-direction: row;
+justify-content: space-between;
+}
+.leftside{
+  width: 50%;
+  margin: 30px;
+}
+.rightside{
+  margin: 40px;
+  width: 50%;
+  display: inline;
+  
+}
